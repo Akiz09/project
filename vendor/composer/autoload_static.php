@@ -11,6 +11,10 @@ class ComposerStaticInita3bf46a3b8cd7c619ae4ac99f589a9b7
         array (
             'Kernel\\' => 7,
         ),
+        'D' => 
+        array (
+            'Dotenv\\' => 7,
+        ),
         'A' => 
         array (
             'App\\' => 4,
@@ -21,6 +25,10 @@ class ComposerStaticInita3bf46a3b8cd7c619ae4ac99f589a9b7
         'Kernel\\' => 
         array (
             0 => __DIR__ . '/../..' . '/kernel',
+        ),
+        'Dotenv\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/vlucas/phpdotenv/src',
         ),
         'App\\' => 
         array (
